@@ -26,7 +26,7 @@ I developed MovieMate to showcase my expertise in building feature-rich applicat
 
 ## Demo <a name="demo"></a>
 
-Check out the live demo of MovieMate [here](https://movie-mate-kg0n382hy-yazan-ali-01.vercel.app/).
+Check out the live demo of MovieMate [here](https://movie-mate-k0jusjvcx-yazan-ali-01.vercel.app/).
 
 ## Features <a name="features"></a>
 
@@ -39,9 +39,11 @@ Check out the live demo of MovieMate [here](https://movie-mate-kg0n382hy-yazan-a
 
 ## Built With <a name="built-with"></a>
 
-- [Technology/Framework 1]
-- [Technology/Framework 2]
-- ...
+- React ^18.2.0
+- Material UI ^5.0.3
+- Vite ^4.3.9
+- react-redux ^7.2.5
+- Typescript
 
 ## Installation <a name="installation"></a>
 
